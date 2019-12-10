@@ -6,7 +6,7 @@
  git clone git@github.com:liuhanchang/emptyGlass.git
 
  git add README.md
- git commit -m "README for this project."
+ git commit -m "README for this project.
  提示：
  fatal: not a git repository (or any of the parent directories): .git
 原因：没有git init
